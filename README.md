@@ -133,11 +133,11 @@ print(policy)
 print("\nOptimal Value Function:\n")
 print(V)
 
----
-
+```
 ## Output
 
-<img width="667" height="404" alt="image" src="https://github.com/user-attachments/assets/8e551ed1-9d66-4e60-9764-9ac6d5508af1" />
+<img width="604" height="412" alt="image" src="https://github.com/user-attachments/assets/c1c11ee3-a510-4196-8cba-a963df7ab3e5" />
+
 
 
 ## Result
